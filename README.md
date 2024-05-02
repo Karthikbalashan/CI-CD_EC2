@@ -1,1 +1,1 @@
-Host Your Resume on AWS EC2 with a CI/CD Setup Using GitHub Actions
+Sample CI/CD pipeline using github Action
